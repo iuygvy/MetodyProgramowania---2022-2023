@@ -1,4 +1,4 @@
-# MetodyProgramowania---2022-2023
+# Metody Programowania - 2022/2023
 Repozytorium zawiera zestaw zadań programistycznych realizowanych w ramach kursu skupiającego się na algorytmice oraz efektywnym zarządzaniu danymi. Wszystkie rozwiązania zostały zaimplementowane w języku Java.
 
 ## Cel kursu
