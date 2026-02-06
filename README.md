@@ -15,11 +15,11 @@ Zgodnie z sylabusem kursu, zadania obejmują następujące zagadnienia:
 ## Jak uruchomić projekt
 1. Sklonuj repozytorium:
 ```
-git clone https://github.com/TwójUsername/NazwaRepozytorium.git
+git clone https://github.com/iuygvy/MetodyProgramowania---2022-2023
 ```
 2. Przejdź do wybranego folderu z zadaniem.
 3. Skompiluj i uruchom program za pomocą IDE lub linii komend:
 ```
-javac NazwaKlasy.java
-java NazwaKlasy
+javac Source.java
+java Source
 ```
